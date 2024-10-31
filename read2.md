@@ -1,4 +1,5 @@
-![fPC_JyCm4CNtV8eRsuczNLe5a41G8Y9WTfjBESdsLMSRyNLG1yJ0X5XOyyMuf2cj-BSqaoK_l_UxPsSIef6OdCswHPPH3ODR5AffOM2wm10OAeQRa9ed8Hv2l4SFWvBSC0FzHlazgh90SHH2yuu1AkmFZZEq0M4mQzRSgqyUQOxWq0UpHDTAKKI5xMQ8lChGLrJt6CPIPPhdhUcngJZ0rLn](https://github.com/user-attachments/assets/63cf022f-d84c-41fc-864c-048d2efe423c)
+![hLNDRjf04BxxAUPI2OwLSWAr2ZMWKXM2WAJ7rM8FP2HxrzfTeoXl4_NGKqzLdu0NwumT6nh8JwKY9DPuVhvlvflPIn-q2sMUHTKXYdeJGmdfZExr_iV-k-r7lQ-K5nfssj7-OOSPwC8gKhPmAarTFufe0vqRTBIXHCCWGUzj5y8j6kZCqUKKABNT2FZJYszrhc5SgiPUrVRgyt3IZp3p29q](https://github.com/user-attachments/assets/a7d1ee44-1a79-4102-b2fd-f6b1ae98d53b)
+
 ### Método: `Cmd_Salvar_Click` 
 #### Regra de Negócio 
 O método `Cmd_Salvar_Click` executa uma sequência de validações para assegurar que a averbação atende aos requisitos de integridade de dados, regras de apólice e conformidade com as normas de cada seguradora. Cada verificação foi projetada para manter a consistência dos dados e evitar cadastros incorretos no sistema. Ele contempla verificações de dados de entrada (como campos obrigatórios e consistências de tipo e valor), requisitos específicos de seguradoras e validações de limites financeiros. 
