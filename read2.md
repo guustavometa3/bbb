@@ -1,6 +1,7 @@
 ![fPC_JyCm4CNtV8eRsuczNLe5a41G8Y9WTfjBESdsLMSRyNLG1yJ0X5XOyyMuf2cj-BSqaoK_l_UxPsSIef6OdCswHPPH3ODR5AffOM2wm10OAeQRa9ed8Hv2l4SFWvBSC0FzHlazgh90SHH2yuu1AkmFZZEq0M4mQzRSgqyUQOxWq0UpHDTAKKI5xMQ8lChGLrJt6CPIPPhdhUcngJZ0rLn](https://github.com/user-attachments/assets/63cf022f-d84c-41fc-864c-048d2efe423c)
 ### Método: `Cmd_Salvar_Click` 
-#### Regra de Negócio O método `Cmd_Salvar_Click` executa uma sequência de validações para assegurar que a averbação atende aos requisitos de integridade de dados, regras de apólice e conformidade com as normas de cada seguradora. Cada verificação foi projetada para manter a consistência dos dados e evitar cadastros incorretos no sistema. Ele contempla verificações de dados de entrada (como campos obrigatórios e consistências de tipo e valor), requisitos específicos de seguradoras e validações de limites financeiros. 
+#### Regra de Negócio 
+O método `Cmd_Salvar_Click` executa uma sequência de validações para assegurar que a averbação atende aos requisitos de integridade de dados, regras de apólice e conformidade com as normas de cada seguradora. Cada verificação foi projetada para manter a consistência dos dados e evitar cadastros incorretos no sistema. Ele contempla verificações de dados de entrada (como campos obrigatórios e consistências de tipo e valor), requisitos específicos de seguradoras e validações de limites financeiros. 
 #### Execução 
 1. **Inicialização e Verificação de Acesso**: * A variável `apo_i_opr_ddr` é limpa. * O método `Fu_Verifica_Acesso_HDI` é chamado para verificar se o usuário tem permissão de acesso; caso contrário, o método é encerrado (`Exit Sub`). 
 2. **Validação de Cancelamento de Averbação**: 
